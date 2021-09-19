@@ -4,7 +4,7 @@ Hi I'm John From San Antonio, TX. Thank You for stoping by and taking a look at 
 
 I'm a software developer with a passion for continuous learning. I'm very intrigued to be able to solve real world problems with lines of code and build technologies where i can help others and continue to grow as adeveloper.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Pierce42&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Pierce42&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 
