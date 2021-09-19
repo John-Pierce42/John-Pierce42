@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+Hi I'm John. Thank You for stoping by and taking a look at my portforlio!
+
+<!-- 
 **John-Pierce42/John-Pierce42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
