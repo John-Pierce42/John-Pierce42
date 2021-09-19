@@ -4,14 +4,15 @@
 
 I'm a software developer with a passion for continuous learning. I'm very intrigued to be able to solve real world problems with lines of code and build technologies where i can help others and continue to grow as a developer.
 
-Skills:  JS / HTML / CSS / jQuery / Java / Object-Oriented Programming / Spring / Thymeleaf / MySQL /  Test-Driven Development / Version Control with Git
+Skills:  JS / HTML / CSS / jQuery / Java / Object-Oriented Programming / Spring / Thymeleaf / MySQL / Test-Driven Development / Version Control with Git
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Pierce42&theme=dark&show_icons=true)  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/John-Pierce42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/johnpierce42//)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Pierce42&theme=dark&show_icons=true)  
 
 
 
