@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-Hi I'm John. Thank You for stoping by and taking a look at my portforlio!
+Hi I'm John From San Antonio, TX. Thank You for stoping by and taking a look at my portforlio!
+
+I'm a software developer with a passion for continuous learning. I'm very intrigued to be able to solve real world problems with lines of code and build technologies where i can help others and continue to grow as adeveloper
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Pierce42)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- 
 **John-Pierce42/John-Pierce42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
