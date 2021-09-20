@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  my name is John!
-#### Thank You for stoping by and taking a look at my portforlio!
+#### Thank You for stoping by and checking out my portforlio!
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=$codeup.marco();&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 I'm a software developer with a passion for continuous learning. I'm very intrigued to be able to solve real world problems with lines of code and build technologies where i can help others and continue to grow as a developer.
